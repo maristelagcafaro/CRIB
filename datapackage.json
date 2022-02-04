@@ -3,6 +3,7 @@
   "resources": [
     {
       "name": "crib_2021",
+      "title": "CRIB 2021",
       "path": "data/crib_2021.csv",
       "profile": "tabular-data-resource",
       "schema": "schema.json"
@@ -15,6 +16,7 @@
   "title": "CRIB 2021",
   "description": "CRIB 2021",
   "homepage": "https://github.com/fhemig",
+  "owner_org": "fundacao-hospitalar-do-estado-de-minas-gerais-fhemig",
   "contributors": [
     {
       "title": "Maristela Guimarães Cáfaro Ferreira",
@@ -27,5 +29,11 @@
       "title": "Creative Commons Attribution 4.0",
       "path": "https://creativecommons.org/licenses/by/4.0/"
     }
-  ]
+  ],
+  "ckan_hosts": {
+    "https://homologa.cge.mg.gov.br": {
+      "crib_2021": "6bd56ac7-c8c7-4688-be61-d73e9079b90b",
+      "datapackage.json": "d7d88922-65e5-42b6-94b5-6782a5414d04"
+    }
+  }
 }
