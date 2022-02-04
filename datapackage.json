@@ -45,7 +45,7 @@
           },
           {
             "name": "predicao_obito",
-            "type": "number",
+            "type": "string",
             "format": "default",
             "title": "Predição de Óbito",
             "description": "Taxa de predição de mortalidade",
