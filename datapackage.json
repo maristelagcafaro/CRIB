@@ -3,7 +3,7 @@
   "resources": [
     {
       "name": "crib_2021",
-      "path": "crib_2021.csv",
+      "path": "data/crib_2021.csv",
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [
