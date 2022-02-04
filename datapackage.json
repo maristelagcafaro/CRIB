@@ -2,8 +2,8 @@
   "profile": "tabular-data-package",
   "resources": [
     {
-      "name": "crib_hjk",
-      "path": "CRIB_HJK.csv",
+      "name": "crib_2021",
+      "path": "crib_2021.csv",
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [
@@ -23,10 +23,11 @@
           },
           {
             "name": "ano",
-            "type": "integer",
+            "type": "number",
             "format": "default",
             "title": "Ano",
-            "description": "Ano referente ao dado"
+            "description": "Ano referente ao dado",
+            "groupChar": "."
           },
           {
             "name": "grau",
@@ -37,7 +38,7 @@
           },
           {
             "name": "escore",
-            "type": "integer",
+            "type": "string",
             "format": "default",
             "title": "Escore",
             "description": "Pontuação de gravidade do paciente"
@@ -47,196 +48,35 @@
             "type": "number",
             "format": "default",
             "title": "Predição de Óbito",
-            "description": "Taxa de predição de mortalidade"
+            "description": "Taxa de predição de mortalidade",
+            "decimalChar": ","
           },
           {
             "name": "saidas_rn",
-            "type": "integer",
+            "type": "number",
             "format": "default",
             "title": "Saídas",
-            "description": "Quantidade de saídas de recém nascido"
+            "description": "Quantidade de saídas de recém nascido",
+            "groupChar": "."
           },
           {
             "name": "obitos_ocorridos",
-            "type": "integer",
+            "type": "number",
             "format": "default",
             "title": "Óbitos Ocorridos",
-            "description": "Quantidade de óbitos ocorridos"
+            "description": "Quantidade de óbitos ocorridos",
+            "groupChar": "."
           },
           {
             "name": "obitos_esperados",
-            "type": "integer",
-            "format": "default"
-          }
-        ]
-      },
-      "title": "CRIB",
-      "format": "csv",
-      "encoding": "utf-8",
-      "description": "CRIB - Clinical Risk Index for Babies que é um score que mensura o risco da mortalidade hospitalar de Recém Nato prematuro (RNPT) com peso ao nascer menor ou igual a 1500g ou Idade Gestacional menor que 31 semanas baseado na gravidade clínica inicial deste Recém Nato."
-    },
-    {
-      "name": "crib_hrad",
-      "path": "CRIB_HRAD.csv",
-      "profile": "tabular-data-resource",
-      "schema": {
-        "fields": [
-          {
-            "name": "unidade",
-            "type": "string",
-            "format": "default"
-          },
-          {
-            "name": "mes",
-            "type": "string",
-            "format": "default"
-          },
-          {
-            "name": "ano",
-            "type": "integer",
-            "format": "default"
-          },
-          {
-            "name": "grau",
-            "type": "string",
-            "format": "default"
-          },
-          {
-            "name": "escore",
-            "type": "integer",
-            "format": "default"
-          },
-          {
-            "name": "predicao_obito",
-            "type": "integer",
-            "format": "default"
-          },
-          {
-            "name": "saidas_rn",
-            "type": "integer",
-            "format": "default"
-          },
-          {
-            "name": "obitos_ocorridos",
-            "type": "integer",
-            "format": "default"
-          },
-          {
-            "name": "obitos_esperados",
-            "type": "integer",
-            "format": "default"
+            "type": "number",
+            "format": "default",
+            "title": "Óbitos esperados",
+            "description": "Quantidade de óbitos esperados",
+            "decimalChar": ","
           }
         ]
       }
-    },
-    {
-      "name": "crib_hrjp",
-      "path": "CRIB_HRJP.csv",
-      "profile": "tabular-data-resource",
-      "schema": {
-        "fields": [
-          {
-            "name": "unidade",
-            "type": "string",
-            "format": "default"
-          },
-          {
-            "name": "mes",
-            "type": "string",
-            "format": "default"
-          },
-          {
-            "name": "ano",
-            "type": "integer",
-            "format": "default"
-          },
-          {
-            "name": "grau",
-            "type": "string",
-            "format": "default"
-          },
-          {
-            "name": "escore",
-            "type": "integer",
-            "format": "default"
-          },
-          {
-            "name": "predicao_obito",
-            "type": "integer",
-            "format": "default"
-          },
-          {
-            "name": "saidas_rn",
-            "type": "integer",
-            "format": "default"
-          },
-          {
-            "name": "obitos_ocorridos",
-            "type": "integer",
-            "format": "default"
-          },
-          {
-            "name": "obitos_esperados",
-            "type": "integer",
-            "format": "default"
-          }
-        ]
-      }
-    },
-    {
-      "name": "crib_mov",
-      "path": "CRIB_MOV.csv",
-      "profile": "tabular-data-resource",
-      "schema": {
-        "fields": [
-          {
-            "name": "unidade",
-            "type": "string",
-            "format": "default"
-          },
-          {
-            "name": "mes",
-            "type": "string",
-            "format": "default"
-          },
-          {
-            "name": "ano",
-            "type": "any",
-            "format": "default"
-          },
-          {
-            "name": "grau",
-            "type": "string",
-            "format": "default"
-          },
-          {
-            "name": "escore",
-            "type": "integer",
-            "format": "default"
-          },
-          {
-            "name": "predicao_obito",
-            "type": "integer",
-            "format": "default"
-          },
-          {
-            "name": "saidas_rn",
-            "type": "integer",
-            "format": "default"
-          },
-          {
-            "name": "obitos_ocorridos",
-            "type": "integer",
-            "format": "default"
-          },
-          {
-            "name": "obitos_esperados",
-            "type": "integer",
-            "format": "default"
-          }
-        ]
-      }
-    }
   ],
   "keywords": [
     "CRIB"

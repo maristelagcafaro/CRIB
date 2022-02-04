@@ -1,0 +1,193 @@
+﻿unidade;mes;ano;grau;escore;predicao_obito;saidas_rn;obitos_ocorridos;obitos_esperados
+HJK;janeiro;2021;I;0 a 5;9,30%;0;0;0
+HJK;janeiro;2021;II;6 a 10;55,90%;2;0;1,12
+HJK;janeiro;2021;III;11 a 5 ;73,10%;2;0;1,46
+HJK;janeiro;2021;IV;> 15;100,00%;0;0;0
+HJK;fevereiro;2021;I;0 a 5;9,30%;1;0;0,09
+HJK;fevereiro;2021;II;6 a 10;55,90%;1;0;0,56
+HJK;fevereiro;2021;III;11 a 5 ;73,10%;0;0;0
+HJK;fevereiro;2021;IV;> 15;100,00%;0;0;0
+HJK;março;2021;I;0 a 5;9,30%;0;0;0
+HJK;março;2021;II;6 a 10;55,90%;0;0;0
+HJK;março;2021;III;11 a 5 ;73,10%;0;0;0
+HJK;março;2021;IV;> 15;100,00%;0;0;0
+HJK;abril;2021;I;0 a 5;9,30%;1;0;0,09
+HJK;abril;2021;II;6 a 10;55,90%;1;0;0,56
+HJK;abril;2021;III;11 a 5 ;73,10%;0;0;0
+HJK;abril;2021;IV;> 15;100,00%;0;0;0
+HJK;maio;2021;I;0 a 5;9,30%;2;0;0,19
+HJK;maio;2021;II;6 a 10;55,90%;0;0;0
+HJK;maio;2021;III;11 a 5 ;73,10%;1;1;0,73
+HJK;maio;2021;IV;> 15;100,00%;0;0;0
+HJK;junho;2021;I;0 a 5;9,30%;0;0;0
+HJK;junho;2021;II;6 a 10;55,90%;0;0;0
+HJK;junho;2021;III;11 a 5 ;73,10%;1;0;0,73
+HJK;junho;2021;IV;> 15;100,00%;0;0;0
+HJK;julho;2021;I;0 a 5;9,30%;1;0;0,09
+HJK;julho;2021;II;6 a 10;55,90%;0;0;0
+HJK;julho;2021;III;11 a 5 ;73,10%;0;0;0
+HJK;julho;2021;IV;> 15;100,00%;1;1;1
+HJK;agosto;2021;I;0 a 5;9,30%;1;0;0,09
+HJK;agosto;2021;II;6 a 10;55,90%;1;0;0,56
+HJK;agosto;2021;III;11 a 5 ;73,10%;0;0;0
+HJK;agosto;2021;IV;> 15;100,00%;0;0;0
+HJK;setembro;2021;I;0 a 5;9,30%;0;0;0
+HJK;setembro;2021;II;6 a 10;55,90%;0;0;0
+HJK;setembro;2021;III;11 a 5 ;73,10%;0;0;0
+HJK;setembro;2021;IV;> 15;100,00%;0;0;0
+HJK;outubro;2021;I;0 a 5;9,30%;0;0;0
+HJK;outubro;2021;II;6 a 10;55,90%;0;0;0
+HJK;outubro;2021;III;11 a 5 ;73,10%;1;1;0,73
+HJK;outubro;2021;IV;> 15;100,00%;0;0;0
+HJK;novembro;2021;I;0 a 5;9,30%;0;0;0
+HJK;novembro;2021;II;6 a 10;55,90%;0;0;0
+HJK;novembro;2021;III;11 a 5 ;73,10%;0;0;0
+HJK;novembro;2021;IV;> 15;100,00%;0;0;0
+HJK;dezembro;2021;I;0 a 5;9,30%;0;0;0
+HJK;dezembro;2021;II;6 a 10;55,90%;0;0;0
+HJK;dezembro;2021;III;11 a 5 ;73,10%;1;0;0,73
+HJK;dezembro;2021;IV;> 15;100,00%;0;0;0
+HRAD;janeiro;2021;I;0 a 5;9,30%;3;0;0,28
+HRAD;janeiro;2021;II;6 a 10;55,90%;3;1;1,68
+HRAD;janeiro;2021;III;11 a 5 ;73,10%;1;0;0,73
+HRAD;janeiro;2021;IV;> 15;100,00%;0;0;0
+HRAD;fevereiro;2021;I;0 a 5;9,30%;5;0;0,47
+HRAD;fevereiro;2021;II;6 a 10;55,90%;1;1;0,56
+HRAD;fevereiro;2021;III;11 a 5 ;73,10%;0;0;0
+HRAD;fevereiro;2021;IV;> 15;100,00%;0;0;0
+HRAD;março;2021;I;0 a 5;9,30%;6;1;0,56
+HRAD;março;2021;II;6 a 10;55,90%;1;1;0,56
+HRAD;março;2021;III;11 a 5 ;73,10%;1;0;0,73
+HRAD;março;2021;IV;> 15;100,00%;1;1;1
+HRAD;abril;2021;I;0 a 5;9,30%;12;0;1,12
+HRAD;abril;2021;II;6 a 10;55,90%;3;0;1,68
+HRAD;abril;2021;III;11 a 5 ;73,10%;0;0;0
+HRAD;abril;2021;IV;> 15;100,00%;0;0;0
+HRAD;maio;2021;I;0 a 5;9,30%;7;0;0,65
+HRAD;maio;2021;II;6 a 10;55,90%;1;0;0,56
+HRAD;maio;2021;III;11 a 5 ;73,10%;0;0;0
+HRAD;maio;2021;IV;> 15;100,00%;0;0;0
+HRAD;junho;2021;I;0 a 5;9,30%;9;0;0,84
+HRAD;junho;2021;II;6 a 10;55,90%;3;0;1,68
+HRAD;junho;2021;III;11 a 5 ;73,10%;0;0;0
+HRAD;junho;2021;IV;> 15;100,00%;0;0;0
+HRAD;julho;2021;I;0 a 5;9,30%;11;0;1,02
+HRAD;julho;2021;II;6 a 10;55,90%;1;1;0,56
+HRAD;julho;2021;III;11 a 5 ;73,10%;1;0;0,73
+HRAD;julho;2021;IV;> 15;100,00%;0;0;0
+HRAD;agosto;2021;I;0 a 5;9,30%;10;1;0,93
+HRAD;agosto;2021;II;6 a 10;55,90%;0;0;0
+HRAD;agosto;2021;III;11 a 5 ;73,10%;0;0;0
+HRAD;agosto;2021;IV;> 15;100,00%;0;0;0
+HRAD;setembro;2021;I;0 a 5;9,30%;11;0;1,02
+HRAD;setembro;2021;II;6 a 10;55,90%;0;0;0
+HRAD;setembro;2021;III;11 a 5 ;73,10%;0;0;0
+HRAD;setembro;2021;IV;> 15;100,00%;0;0;0
+HRAD;outubro;2021;I;0 a 5;9,30%;9;0;0,84
+HRAD;outubro;2021;II;6 a 10;55,90%;3;1;1,68
+HRAD;outubro;2021;III;11 a 5 ;73,10%;1;0;0,73
+HRAD;outubro;2021;IV;> 15;100,00%;0;0;0
+HRAD;novembro;2021;I;0 a 5;9,30%;9;0;0,84
+HRAD;novembro;2021;II;6 a 10;55,90%;2;0;1,12
+HRAD;novembro;2021;III;11 a 5 ;73,10%;1;1;0,73
+HRAD;novembro;2021;IV;> 15;100,00%;0;0;0
+HRAD;dezembro;2021;I;0 a 5;9,30%;7;1;0,65
+HRAD;dezembro;2021;II;6 a 10;55,90%;0;0;0
+HRAD;dezembro;2021;III;11 a 5 ;73,10%;0;0;0
+HRAD;dezembro;2021;IV;> 15;100,00%;0;0;0
+MOV;janeiro;;I;0 a 5;9,30%;4;0;0,37
+MOV;janeiro;;II;6 a 10;55,90%;0;0;0
+MOV;janeiro;;III;11 a 5 ;73,10%;1;0;0,73
+MOV;janeiro;;IV;> 15;100,00%;0;0;0
+MOV;fevereiro;;I;0 a 5;9,30%;3;0;0,28
+MOV;fevereiro;;II;6 a 10;55,90%;1;0;0,56
+MOV;fevereiro;;III;11 a 5 ;73,10%;1;0;0,73
+MOV;fevereiro;;IV;> 15;100,00%;1;1;1
+MOV;março;;I;0 a 5;9,30%;0;0;0
+MOV;março;;II;6 a 10;55,90%;1;0;0,56
+MOV;março;;III;11 a 5 ;73,10%;1;0;0,73
+MOV;março;;IV;> 15;100,00%;0;0;0
+MOV;abril;;I;0 a 5;9,30%;0;0;0
+MOV;abril;;II;6 a 10;55,90%;2;0;1,12
+MOV;abril;;III;11 a 5 ;73,10%;2;0;1,46
+MOV;abril;;IV;> 15;100,00%;0;0;0
+MOV;maio;;I;0 a 5;9,30%;0;0;0
+MOV;maio;;II;6 a 10;55,90%;2;0;1,12
+MOV;maio;;III;11 a 5 ;73,10%;1;1;0,73
+MOV;maio;;IV;> 15;100,00%;0;0;0
+MOV;junho;;I;0 a 5;9,30%;1;0;0,09
+MOV;junho;;II;6 a 10;55,90%;0;0;0
+MOV;junho;;III;11 a 5 ;73,10%;0;0;0
+MOV;junho;;IV;> 15;100,00%;0;0;0
+MOV;julho;;I;0 a 5;9,30%;0;0;0
+MOV;julho;;II;6 a 10;55,90%;2;1;1,12
+MOV;julho;;III;11 a 5 ;73,10%;3;3;2,19
+MOV;julho;;IV;> 15;100,00%;3;3;3
+MOV;agosto;;I;0 a 5;9,30%;0;0;0
+MOV;agosto;;II;6 a 10;55,90%;4;1;2,24
+MOV;agosto;;III;11 a 5 ;73,10%;1;1;0,73
+MOV;agosto;;IV;> 15;100,00%;0;0;0
+MOV;setembro;;I;0 a 5;9,30%;2;0;0,19
+MOV;setembro;;II;6 a 10;55,90%;1;0;0,56
+MOV;setembro;;III;11 a 5 ;73,10%;2;1;1,46
+MOV;setembro;;IV;> 15;100,00%;0;0;0
+MOV;outubro;;I;0 a 5;9,30%;3;0;0,28
+MOV;outubro;;II;6 a 10;55,90%;2;0;1,12
+MOV;outubro;;III;11 a 5 ;73,10%;1;1;0,73
+MOV;outubro;;IV;> 15;100,00%;0;0;0
+MOV;novembro;;I;0 a 5;9,30%;1;0;0,09
+MOV;novembro;;II;6 a 10;55,90%;1;0;0,56
+MOV;novembro;;III;11 a 5 ;73,10%;4;3;2,92
+MOV;novembro;;IV;> 15;100,00%;2;2;2
+MOV;dezembro;;I;0 a 5;9,30%;1;0;0,09
+MOV;dezembro;;II;6 a 10;55,90%;0;0;0
+MOV;dezembro;;III;11 a 5 ;73,10%;0;0;0
+MOV;dezembro;;IV;> 15;100,00%;0;0;0
+HRJP;janeiro;2021;I;0 a 5;9,30%;1;0;0,09
+HRJP;janeiro;2021;II;6 a 10;55,90%;1;0;0,56
+HRJP;janeiro;2021;III;11 a 5 ;73,10%;1;1;0,73
+HRJP;janeiro;2021;IV;> 15;100,00%;0;0;0
+HRJP;fevereiro;2021;I;0 a 5;9,30%;0;0;0
+HRJP;fevereiro;2021;II;6 a 10;55,90%;1;0;0,56
+HRJP;fevereiro;2021;III;11 a 5 ;73,10%;0;0;0
+HRJP;fevereiro;2021;IV;> 15;100,00%;2;2;2
+HRJP;março;2021;I;0 a 5;9,30%;0;0;0
+HRJP;março;2021;II;6 a 10;55,90%;1;0;0,56
+HRJP;março;2021;III;11 a 5 ;73,10%;1;0;0,73
+HRJP;março;2021;IV;> 15;100,00%;0;0;0
+HRJP;abril;2021;I;0 a 5;9,30%;3;0;0,28
+HRJP;abril;2021;II;6 a 10;55,90%;0;0;0
+HRJP;abril;2021;III;11 a 5 ;73,10%;0;0;0
+HRJP;abril;2021;IV;> 15;100,00%;0;0;0
+HRJP;maio;2021;I;0 a 5;9,30%;3;1;0,28
+HRJP;maio;2021;II;6 a 10;55,90%;1;0;0,56
+HRJP;maio;2021;III;11 a 5 ;73,10%;1;0;0,73
+HRJP;maio;2021;IV;> 15;100,00%;0;0;0
+HRJP;junho;2021;I;0 a 5;9,30%;1;1;0,09
+HRJP;junho;2021;II;6 a 10;55,90%;3;0;1,68
+HRJP;junho;2021;III;11 a 5 ;73,10%;0;0;0
+HRJP;junho;2021;IV;> 15;100,00%;0;0;0
+HRJP;julho;2021;I;0 a 5;9,30%;2;0;0,19
+HRJP;julho;2021;II;6 a 10;55,90%;1;0;0,56
+HRJP;julho;2021;III;11 a 5 ;73,10%;0;0;0
+HRJP;julho;2021;IV;> 15;100,00%;1;1;1
+HRJP;agosto;2021;I;0 a 5;9,30%;1;0;0,09
+HRJP;agosto;2021;II;6 a 10;55,90%;3;0;1,68
+HRJP;agosto;2021;III;11 a 5 ;73,10%;1;0;0,73
+HRJP;agosto;2021;IV;> 15;100,00%;0;0;0
+HRJP;setembro;2021;I;0 a 5;9,30%;1;0;0,09
+HRJP;setembro;2021;II;6 a 10;55,90%;0;0;0
+HRJP;setembro;2021;III;11 a 5 ;73,10%;0;0;0
+HRJP;setembro;2021;IV;> 15;100,00%;0;0;0
+HRJP;outubro;2021;I;0 a 5;9,30%;1;0;0,09
+HRJP;outubro;2021;II;6 a 10;55,90%;0;0;0
+HRJP;outubro;2021;III;11 a 5 ;73,10%;0;0;0
+HRJP;outubro;2021;IV;> 15;100,00%;0;0;0
+HRJP;novembro;2021;I;0 a 5;9,30%;2;0;0,19
+HRJP;novembro;2021;II;6 a 10;55,90%;4;1;2,24
+HRJP;novembro;2021;III;11 a 5 ;73,10%;0;0;0
+HRJP;novembro;2021;IV;> 15;100,00%;0;0;0
+HRJP;dezembro;2021;I;0 a 5;9,30%;0;0;0
+HRJP;dezembro;2021;II;6 a 10;55,90%;1;0;0,56
+HRJP;dezembro;2021;III;11 a 5 ;73,10%;2;1;1,46
+HRJP;dezembro;2021;IV;> 15;100,00%;0;0;0
